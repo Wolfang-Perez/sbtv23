@@ -1,0 +1,10 @@
+{
+  "name": "sbtv23",
+  "version": "23.0.0",
+  "description": "SBTV23",
+  "packageType": "app",
+  "appName": "SBTV23",
+  "appPath": "app/p23.html",
+  "serviceFile": "c23.js",
+  "keys": []
+}
